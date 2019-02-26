@@ -20,7 +20,7 @@
 
 5、再次声明： ueditor 本身是一个完整的包含前后端的项目，对于 UeditorClient 来说，只采用了其前段功能，
 
-后端功能参照 UeditorService
+后端功能参照 UeditorServer
 
 
 ### 二、运行
